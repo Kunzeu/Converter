@@ -1,2 +1,2 @@
 # Converter
-Proceso de  cargga y textualización 
+Proceso de  carga y textualización 
