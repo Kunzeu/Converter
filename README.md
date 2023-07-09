@@ -1,7 +1,14 @@
 # Currency, Temperature, and Age Converter using NetBeans.
 
+##To clone this repository, you can follow the steps below:
 
+1. Copy the repository link.
 
+2. Open your terminal or command line on your computer.
+
+3. Navigate to the directory where you want to clone the repository.
+
+¡Espero que esto sea de ayuda! Si tienes alguna otra pregunta, no dudes en hacerla.
 
 Proceso de  carga y textualización 
 
