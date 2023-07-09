@@ -1,6 +1,6 @@
 # Currency, Temperature, and Age Converter using NetBeans.
 
-##To clone this repository, you can follow the steps below:
+## To clone this repository, you can follow the steps below:
 
 1. Copy the repository link.
 
