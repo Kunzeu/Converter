@@ -1,6 +1,6 @@
 # Currency, Temperature, and Age Converter using NetBeans.
 
-## To clone this repository, you can follow the steps below:
+### To clone this repository, you can follow the steps below:
 
 1. Copy the repository link.
 
@@ -8,30 +8,32 @@
 
 3. Navigate to the directory where you want to clone the repository.
 
-¡Espero que esto sea de ayuda! Si tienes alguna otra pregunta, no dudes en hacerla.
+For example:
+ - Run the following command to clone the repository:  
+git clone: https://github.com/Kunzeu/Converter
 
-Proceso de  carga y textualización 
+Done! Now you have a copy of the repository on your machine and you can start working on it.
 
+## Loading and Textualization Process
 
-En este pequeño proyecto podrás hacer conversiones de Moneda, Temperatura y tu edad
+In this small project, you can perform Currency, Temperature, and Age conversions.
 
 
 ![image](https://user-images.githubusercontent.com/115730298/221665270-df554bc7-8f11-4856-9d4e-a12227c18677.png)
 
-Aquí digitas el monto que quieres cambiar 
-
+Here, you enter the amount you want to convert.
 
 ![image](https://user-images.githubusercontent.com/115730298/221665790-d8bc5779-42c1-4841-b15e-159e9d203f9a.png)
 
-La moneda de la conversión a la que quieres convertir
+The currency you want to convert to.
 
 ![image](https://user-images.githubusercontent.com/115730298/221665943-bbaff456-421c-4a9b-bdc6-daa2d734305d.png)
 
-Y nuestro resultado
+And here's our result.
 
 ![image](https://user-images.githubusercontent.com/115730298/221666121-580abde0-7738-4b00-8c6a-04f52bbae1f6.png)
 
-Mensaje cuando finalizas la conversión
+Message when the conversion is complete.
 
 ![image](https://user-images.githubusercontent.com/115730298/221666310-021c95c7-e223-4dc5-b100-9f805bf33fd9.png)
 
